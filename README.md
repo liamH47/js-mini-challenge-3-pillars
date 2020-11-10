@@ -24,7 +24,7 @@ We'll be working on three deliverables to practice DOM Manipulation, Event Handl
 - **Deliverable 2**: When the user clicks the like button, increment the likes for the player on the page and persist it to the backend
 - **Deliverable 3**: When the user submits the "Add Goal" form, add a goal video to the page and persist it in the backend
 
-Each deliverable is in a separate folder; feel free to re-use your code between each deliverable. There is some starter code for you already in Deliverable 2 and 3. You will need to open the `index.html` file from each folder in the browser as you're working.
+Each deliverable is in a separate folder. You will need to open the `index.html` file from each folder in the browser as you're working. You are encouraged to write your code from scratch for each deliverable--even if it means duplicating work you've already done--in order to get more practice. If you'd prefer though, there is some starter code for Deliverable 2 and 3 in the `dom-starter.js` file. 
 
 There's a section in this Readme file for your notes on each deliverable. As you go through the deliverables, write down some notes in this file on how you solved each problem. It'll help reinforce what you learned and give you a head start next time you see a similar problem.
 
